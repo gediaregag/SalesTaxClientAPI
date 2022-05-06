@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxClientAPI", "SalesTaxAPI\SalesTaxClientAPI.csproj", "{84B5E0F7-0FCD-44FA-A5F1-612BB831DAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesTaxClientAPITest", "SalesTaxClientAPITest\SalesTaxClientAPITest.csproj", "{3C330B26-3AC5-4164-BAAD-AC4397572174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B5E0F7-0FCD-44FA-A5F1-612BB831DAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B5E0F7-0FCD-44FA-A5F1-612BB831DAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B5E0F7-0FCD-44FA-A5F1-612BB831DAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B5E0F7-0FCD-44FA-A5F1-612BB831DAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C330B26-3AC5-4164-BAAD-AC4397572174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C330B26-3AC5-4164-BAAD-AC4397572174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C330B26-3AC5-4164-BAAD-AC4397572174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C330B26-3AC5-4164-BAAD-AC4397572174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.CommitMessageStyle = $2
+		$2.Indent = @\t
+		$2.LastFilePostfix = "@:\n  "
+		$2.IncludeDirectoryPaths = True
+	EndGlobalSection
+EndGlobal
